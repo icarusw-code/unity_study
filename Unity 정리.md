@@ -145,3 +145,8 @@ PlayerFire pFire = other.GetComponent<PlayerFire>();
 싱글톤패턴
 
 - 단 하나의 객체를 생성해서 사용하는 디자인패턴
+
+
+
+### 14차시
+
