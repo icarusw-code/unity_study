@@ -148,5 +148,39 @@ PlayerFire pFire = other.GetComponent<PlayerFire>();
 
 
 
-### 14차시
+### 16차시 
 
+![image-20220605234434777](C:\Users\CHOI\AppData\Roaming\Typora\typora-user-images\image-20220605234434777.png)
+
+
+
+### 17차시
+
+- PBR
+  - Albedo: 고유색
+  - Metallic : 금속/ 비금속
+  - Smoothness: 거칠기
+
+- Normal Map
+
+
+
+### 18차시
+
+- 이펙트
+  - VFX
+  - 스킬 이펙트
+  - 환경 이펙트
+  - 카메라 이펙트
+
+
+
+### 19차시
+
+- Light 
+  - 직접광(광원)
+    1. Directional (태양광) - 방향, 세기
+    2. Point (전구) - 방향x(전방향), 세기, 거리
+    3. Spot (연극조명) - 방향, 세기, 거리, 각도
+    4. Area(면발광, 간접조명)
+  - 간접광(반사광)
