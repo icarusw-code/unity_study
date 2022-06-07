@@ -184,3 +184,21 @@ PlayerFire pFire = other.GetComponent<PlayerFire>();
     3. Spot (연극조명) - 방향, 세기, 거리, 각도
     4. Area(면발광, 간접조명)
   - 간접광(반사광)
+    - 간접광, 주변광, 환경광
+    - SkyBox (태양광이 대기에 반사가 됨)
+
+### 20차시
+
+- 라이트프루브
+  - 빛을 담는 그릇
+- 리플렉션프루브
+  - 주위 이미지를 캡쳐해서 담아놓는 그릇
+
+### 22차시
+
+- 씨네머신
+  - 감독: Playeable Director(컴포넌트)
+  - 카메라: Cinemachine Brain(컴포넌트)
+  - 시나리오, 피름: TimeLine(에셋)
+  - 로케이션: 씬
+  - 배우, 소품: 게임 오브젝트
