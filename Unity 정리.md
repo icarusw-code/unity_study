@@ -202,3 +202,9 @@ PlayerFire pFire = other.GetComponent<PlayerFire>();
   - 시나리오, 피름: TimeLine(에셋)
   - 로케이션: 씬
   - 배우, 소품: 게임 오브젝트
+
+
+
+
+
+내일 인성검사, 네이버부트캠프
